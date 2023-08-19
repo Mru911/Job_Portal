@@ -8,6 +8,17 @@
       "expo-router"
     ],
     "name": "JobPortal",
-    "slug": "JobPortal"
+    "slug": "JobPortal",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "cd422f77-f7ae-4898-8b80-e522bb5512f5"
+      }
+    },
+    "android": {
+      "package": "com.mrugank911.JobPortal"
+    }
   }
 }
